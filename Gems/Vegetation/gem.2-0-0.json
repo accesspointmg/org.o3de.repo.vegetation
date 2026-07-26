@@ -109,5 +109,16 @@
     "Tools",
     "Design",
     "Environment"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-vegetation.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
